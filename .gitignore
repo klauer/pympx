@@ -1,0 +1,7 @@
+*.sw[op]
+*.pyc
+build/
+dist/
+sophy/
+libmpxhwrelaxd.a
+pympx.cpp
