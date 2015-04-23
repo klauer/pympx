@@ -6,7 +6,7 @@ import numpy as np
 import matplotlib.pyplot as plt
 import multiprocessing
 
-sys.path.insert(0, '../build/lib.linux-x86_64-2.7')
+# sys.path.insert(0, '../build/lib.linux-x86_64-2.7')
 import pympx
 
 class Log(object):
